@@ -1,6 +1,6 @@
 {
   "name": "@carlwelchdesign/webauthn-core",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.1",
   "description": "Reusable server-side WebAuthn orchestration with storage adapters",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
